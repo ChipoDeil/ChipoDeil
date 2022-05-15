@@ -1,8 +1,4 @@
-<p align="center">
-<a target="blank" href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ChipoDeil&&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="" width="45%" height="100%"/></a>
-<a target="blank" href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chipodeil&layout=compact&hide_title=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="" width="46%" height="100%" /></a>
-
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChipoDeil&&hide_border=true&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
 **ChipoDeil/ChipoDeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
